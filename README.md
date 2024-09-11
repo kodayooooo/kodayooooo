@@ -1,16 +1,25 @@
-## Hi there 👋
+<div align="dark">
+  <img src="https://komarev.com/ghpvc/?username=username" />
+</div>
 
-<!--
-**kodayooooo/kodayooooo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<!-- 2. プロフィールや連絡先を変更 -->
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hi there
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🧑‍💻 I'm a beginner programmer.
+- 🌱 I’m currently learning Java,OracleDataBase,HTML,CSS,JavaScript.
+- 🔭 I’m currently working on Spring.
+- 📫 How to reach me: [𝕏 - @kodayooooo](https://x.com/kodayooooo)
+<br>
+
+
+## 🌱 Skills
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=java,html,css,python,docker,aws,gcp,spring,sqlite,git" />
+<br>
+
+
+## 🏃‍♀️ Activities
+<div align="left"> 
+  <img alt="Top Langs" height="170px" src="https://github-readme-stats.vercel.app/api?username=kodayooooo&theme=vue-dark&layout=compact" />
+  <img alt="github stats" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kodayooooo&theme=vue-dark&layout=compact" />
+</div>
