@@ -30,13 +30,11 @@
 
 > 📦 11.7 kB Used in GitHub's Storage 
  > 
-> 🏆 16 Contributions in the Year 2025
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 2 Public Repositories 
  > 
-> 🔑 29 Private Repositories 
+> 🔑 30 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
@@ -65,21 +63,27 @@ Sunday                   0 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Java                     2 hrs 14 mins       ████████████████░░░░░░░░░   62.30 % 
+XML                      31 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.54 % 
+Other                    19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.17 % 
+Vue.js                   18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.73 % 
+Text                     11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  2 hrs 54 mins       ████████████████████░░░░░   80.46 % 
+Eclipse                  34 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.11 % 
+Unknown Editor           7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.43 % 
 ```
 
 **I Mostly Code in Python** 
 
 ```text
-Python                   28 repos            ████████████████████████░   96.55 % 
-TypeScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
+Python                   29 repos            ████████████████████████░   96.67 % 
+TypeScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.33 % 
 ```
 
 
 
 
- Last Updated on 2025/01/28 07:46:08 UTC
+ Last Updated on 2025/01/28 18:42:10 UTC
 <!--END_SECTION:waka-->
