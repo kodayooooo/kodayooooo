@@ -1,5 +1,6 @@
 <div align="dark">
-  <img src="https://komarev.com/ghpvc/?username=username" />
+  <a href="https://github.com/kodayooooo/kodayooooo">
+    <img src="https://komarev.com/ghpvc/?username=kodayooooo" alt="kodayooooo" />
 </div>
 
 
