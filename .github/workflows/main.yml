@@ -18,4 +18,4 @@ jobs:
           SHOW_LOC_CHART: "Fslse"
           SHOW_PROFILE_VIEWS: "False"
           SHOW_TOTAL_CODE_TIME: "False"
-          UPDATED_DATE_FORMAT: "YYYY/MM/DD HH:MM:SS"
+          UPDATED_DATE_FORMAT: "%y/%M/%D %H:%M:%S"
