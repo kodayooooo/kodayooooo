@@ -30,53 +30,12 @@
 
 > 📦 11.8 kB Used in GitHub's Storage 
  > 
-> 🏆 18 Contributions in the Year 2025
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 2 Public Repositories 
  > 
 > 🔑 30 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-🌆 Daytime                20 commits          █████████████████████████   100.00 % 
-🌃 Evening                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Tuesday                  18 commits          ██████████████████████░░░   90.00 % 
-Wednesday                2 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
-Thursday                 0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Friday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Saturday                 0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Sunday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Tokyo
-
-💬 Programming Languages: 
-Java                     4 hrs 22 mins       ██████████████████░░░░░░░   71.58 % 
-Other                    42 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.57 % 
-XML                      31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.58 % 
-Vue.js                   18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.15 % 
-Text                     11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.10 % 
-
-🔥 Editors: 
-VS Code                  3 hrs 16 mins       █████████████░░░░░░░░░░░░   53.66 % 
-Eclipse                  2 hrs 42 mins       ███████████░░░░░░░░░░░░░░   44.31 % 
-Unknown Editor           7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.03 % 
-```
-
 **I Mostly Code in Python** 
 
 ```text
@@ -87,5 +46,5 @@ TypeScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 2025/01/30 06:55:26 UTC
+ Last Updated on 2025/01/30 18:40:56 UTC
 <!--END_SECTION:waka-->
