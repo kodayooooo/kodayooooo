@@ -28,9 +28,7 @@
 <!--START_SECTION:waka-->
 **🐱 My GitHub Data** 
 
-> 📦 11.8 kB Used in GitHub's Storage 
- > 
-> 🏆 18 Contributions in the Year 2025
+> 📦 11.9 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -65,16 +63,16 @@ Sunday                   0 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-Java                     24 hrs 31 mins      █████████████████░░░░░░░░   66.16 % 
-Python                   7 hrs 37 mins       █████░░░░░░░░░░░░░░░░░░░░   20.55 % 
-XML                      1 hr 14 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.36 % 
-Other                    1 hr 10 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.15 % 
-YAML                     58 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.63 % 
+Java                     28 hrs 26 mins      ███████████████░░░░░░░░░░   60.52 % 
+Python                   11 hrs 47 mins      ██████░░░░░░░░░░░░░░░░░░░   25.09 % 
+YAML                     2 hrs 33 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.43 % 
+XML                      1 hr 14 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.65 % 
+Other                    1 hr 10 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.49 % 
 
 🔥 Editors: 
-VS Code                  19 hrs 40 mins      █████████████░░░░░░░░░░░░   53.06 % 
-Eclipse                  17 hrs 16 mins      ████████████░░░░░░░░░░░░░   46.60 % 
-Unknown Editor           7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
+VS Code                  29 hrs 35 mins      ████████████████░░░░░░░░░   62.96 % 
+Eclipse                  17 hrs 16 mins      █████████░░░░░░░░░░░░░░░░   36.77 % 
+Unknown Editor           7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
 ```
 
 **I Mostly Code in Python** 
@@ -87,5 +85,5 @@ TypeScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 2025/02/03 18:40:06 UTC
+ Last Updated on 2025/02/04 18:41:24 UTC
 <!--END_SECTION:waka-->
