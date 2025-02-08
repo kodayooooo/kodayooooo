@@ -28,7 +28,7 @@
 <!--START_SECTION:waka-->
 **🐱 My GitHub Data** 
 
-> 📦 11.9 kB Used in GitHub's Storage 
+> 📦 12.0 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -36,6 +36,44 @@
  > 
 > 🔑 30 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+🌆 Daytime                20 commits          █████████████████████████   100.00 % 
+🌃 Evening                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Tuesday                  18 commits          ██████████████████████░░░   90.00 % 
+Wednesday                2 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
+Thursday                 0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Friday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Saturday                 0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Sunday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Tokyo
+
+💬 Programming Languages: 
+Python                   24 hrs 58 mins      ███████████████████░░░░░░   75.27 % 
+Java                     5 hrs 45 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.34 % 
+YAML                     1 hr 43 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.20 % 
+SQL                      36 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.82 % 
+Text                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
+
+🔥 Editors: 
+VS Code                  32 hrs 10 mins      ████████████████████████░   96.99 % 
+Eclipse                  59 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.01 % 
+```
+
 **I Mostly Code in Python** 
 
 ```text
@@ -46,5 +84,5 @@ TypeScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 2025/02/07 18:41:19 UTC
+ Last Updated on 2025/02/08 18:38:02 UTC
 <!--END_SECTION:waka-->
