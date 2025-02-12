@@ -28,7 +28,7 @@
 <!--START_SECTION:waka-->
 **🐱 My GitHub Data** 
 
-> 📦 12.1 kB Used in GitHub's Storage 
+> 📦 12.3 kB Used in GitHub's Storage 
  > 
 > 🏆 18 Contributions in the Year 2025
  > 
@@ -36,22 +36,22 @@
  > 
 > 📜 2 Public Repositories 
  > 
-> 🔑 32 Private Repositories 
+> 🔑 33 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
 ```text
 🌞 Morning                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-🌆 Daytime                20 commits          █████████████████████████   100.00 % 
-🌃 Evening                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+🌆 Daytime                21 commits          ████████████████████████░   95.45 % 
+🌃 Evening                1 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
 🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
 Monday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Tuesday                  18 commits          ██████████████████████░░░   90.00 % 
-Wednesday                2 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
+Tuesday                  18 commits          ████████████████████░░░░░   81.82 % 
+Wednesday                4 commits           █████░░░░░░░░░░░░░░░░░░░░   18.18 % 
 Thursday                 0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Friday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Saturday                 0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
@@ -65,26 +65,26 @@ Sunday                   0 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-Python                   27 hrs 43 mins      ███████████████████████░░   92.03 % 
-Java                     1 hr 50 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.12 % 
-TypeScript               10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 % 
-SQL                      10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 % 
-YAML                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 % 
+Python                   19 hrs 31 mins      ███████████████████████░░   91.93 % 
+Java                     1 hr 13 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.77 % 
+TypeScript               10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.86 % 
+YAML                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.69 % 
+SQL                      6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 % 
 
 🔥 Editors: 
-VS Code                  29 hrs 7 mins       ████████████████████████░   96.68 % 
-Eclipse                  59 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.32 % 
+VS Code                  20 hrs 47 mins      ████████████████████████░   97.92 % 
+Eclipse                  26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.08 % 
 ```
 
 **I Mostly Code in Python** 
 
 ```text
-Python                   31 repos            ████████████████████████░   96.88 % 
-TypeScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.12 % 
+Python                   32 repos            ████████████████████████░   96.97 % 
+TypeScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.03 % 
 ```
 
 
 
 
- Last Updated on 2025/02/11 18:41:32 UTC
+ Last Updated on 2025/02/12 18:42:10 UTC
 <!--END_SECTION:waka-->
