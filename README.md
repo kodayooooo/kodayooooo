@@ -63,15 +63,15 @@ Sunday                   0 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-Java                     13 hrs 54 mins      ██████████████████████░░░   87.92 % 
-Python                   1 hr 52 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.86 % 
-TypeScript               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
+Java                     13 hrs 54 mins      ██████████████████░░░░░░░   73.88 % 
+Python                   4 hrs 48 mins       ██████░░░░░░░░░░░░░░░░░░░   25.56 % 
+TypeScript               6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 % 
 JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🔥 Editors: 
-Eclipse                  13 hrs 54 mins      ██████████████████████░░░   87.92 % 
-VS Code                  1 hr 54 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.08 % 
+Eclipse                  13 hrs 54 mins      ██████████████████░░░░░░░   73.88 % 
+VS Code                  4 hrs 55 mins       ███████░░░░░░░░░░░░░░░░░░   26.12 % 
 ```
 
 **I Mostly Code in Python** 
@@ -84,5 +84,5 @@ TypeScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 2025/03/01 18:40:01 UTC
+ Last Updated on 2025/03/02 18:41:50 UTC
 <!--END_SECTION:waka-->
