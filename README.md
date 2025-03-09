@@ -30,6 +30,8 @@
 
 > 📦 12.5 kB Used in GitHub's Storage 
  > 
+> 🏆 18 Contributions in the Year 2025
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 2 Public Repositories 
@@ -63,15 +65,15 @@ Sunday                   0 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-Java                     11 hrs 58 mins      ██████████░░░░░░░░░░░░░░░   38.53 % 
-Python                   9 hrs 24 mins       ████████░░░░░░░░░░░░░░░░░   30.32 % 
-TypeScript               5 hrs 59 mins       █████░░░░░░░░░░░░░░░░░░░░   19.28 % 
-Java Properties          1 hr 48 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.80 % 
-JSON                     1 hr 3 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.38 % 
+Java                     11 hrs 58 mins      ██████████░░░░░░░░░░░░░░░   41.14 % 
+Python                   7 hrs 30 mins       ██████░░░░░░░░░░░░░░░░░░░   25.84 % 
+TypeScript               5 hrs 55 mins       █████░░░░░░░░░░░░░░░░░░░░   20.35 % 
+Java Properties          1 hr 48 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.20 % 
+JSON                     1 hr 3 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.61 % 
 
 🔥 Editors: 
-VS Code                  23 hrs 24 mins      ███████████████████░░░░░░   75.35 % 
-Eclipse                  7 hrs 39 mins       ██████░░░░░░░░░░░░░░░░░░░   24.65 % 
+VS Code                  21 hrs 25 mins      ██████████████████░░░░░░░   73.68 % 
+Eclipse                  7 hrs 39 mins       ███████░░░░░░░░░░░░░░░░░░   26.32 % 
 ```
 
 **I Mostly Code in Python** 
@@ -84,5 +86,5 @@ TypeScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 2025/03/08 18:33:36 UTC
+ Last Updated on 2025/03/09 18:34:22 UTC
 <!--END_SECTION:waka-->
