@@ -28,32 +28,32 @@
 <!--START_SECTION:waka-->
 **🐱 My GitHub Data** 
 
-> 📦 12.5 kB Used in GitHub's Storage 
+> 📦 12.6 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 2 Public Repositories 
  > 
-> 🔑 36 Private Repositories 
+> 🔑 37 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
 ```text
 🌞 Morning                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-🌆 Daytime                21 commits          ██████████████████████░░░   87.50 % 
-🌃 Evening                2 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
-🌙 Night                  1 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
+🌆 Daytime                21 commits          ███████████████████░░░░░░   77.78 % 
+🌃 Evening                5 commits           █████░░░░░░░░░░░░░░░░░░░░   18.52 % 
+🌙 Night                  1 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   1 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
-Tuesday                  18 commits          ███████████████████░░░░░░   75.00 % 
-Wednesday                4 commits           ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
-Thursday                 1 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
+Monday                   1 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
+Tuesday                  18 commits          █████████████████░░░░░░░░   66.67 % 
+Wednesday                4 commits           ████░░░░░░░░░░░░░░░░░░░░░   14.81 % 
+Thursday                 1 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
 Friday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Saturday                 0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Sunday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Sunday                   3 commits           ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
 ```
 
 
@@ -63,26 +63,26 @@ Sunday                   0 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-Java                     18 hrs 33 mins      ███████████████░░░░░░░░░░   61.89 % 
-TypeScript               4 hrs 14 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.14 % 
-Java Properties          2 hrs 46 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.25 % 
-SQL                      2 hrs 36 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.68 % 
-Python                   1 hr 2 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.46 % 
+Java                     18 hrs 33 mins      ████████████████░░░░░░░░░   64.10 % 
+TypeScript               4 hrs 14 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.64 % 
+Java Properties          2 hrs 46 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.58 % 
+SQL                      2 hrs 36 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.99 % 
+CSV                      35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.03 % 
 
 🔥 Editors: 
-VS Code                  16 hrs 50 mins      ██████████████░░░░░░░░░░░   56.14 % 
-Eclipse                  13 hrs 9 mins       ███████████░░░░░░░░░░░░░░   43.86 % 
+VS Code                  15 hrs 47 mins      ██████████████░░░░░░░░░░░   54.57 % 
+Eclipse                  13 hrs 9 mins       ███████████░░░░░░░░░░░░░░   45.43 % 
 ```
 
 **I Mostly Code in Python** 
 
 ```text
-Python                   35 repos            ████████████████████████░   97.22 % 
-TypeScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.78 % 
+Python                   36 repos            ████████████████████████░   97.30 % 
+TypeScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.70 % 
 ```
 
 
 
 
- Last Updated on 2025/03/15 18:40:41 UTC
+ Last Updated on 2025/03/16 18:41:58 UTC
 <!--END_SECTION:waka-->
