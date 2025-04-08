@@ -28,7 +28,7 @@
 <!--START_SECTION:waka-->
 **🐱 My GitHub Data** 
 
-> 📦 13.1 kB Used in GitHub's Storage 
+> 📦 13.2 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -63,15 +63,15 @@ Sunday                   3 commits           ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-Java                     24 hrs 7 mins       ███████████████░░░░░░░░░░   59.93 % 
-Python                   8 hrs 4 mins        █████░░░░░░░░░░░░░░░░░░░░   20.05 % 
-Java Properties          2 hrs 53 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.20 % 
-TypeScript               1 hr 21 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.39 % 
-TOML                     1 hr 19 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.29 % 
+Java                     27 hrs 3 mins       ████████████████░░░░░░░░░   64.11 % 
+Python                   7 hrs 41 mins       █████░░░░░░░░░░░░░░░░░░░░   18.21 % 
+Java Properties          2 hrs 23 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.65 % 
+TypeScript               1 hr 25 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.38 % 
+TOML                     1 hr 19 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.13 % 
 
 🔥 Editors: 
-VS Code                  21 hrs 47 mins      ██████████████░░░░░░░░░░░   54.14 % 
-Eclipse                  18 hrs 27 mins      ███████████░░░░░░░░░░░░░░   45.86 % 
+Eclipse                  22 hrs 53 mins      ██████████████░░░░░░░░░░░   54.24 % 
+VS Code                  19 hrs 18 mins      ███████████░░░░░░░░░░░░░░   45.76 % 
 ```
 
 **I Mostly Code in Python** 
@@ -84,5 +84,5 @@ TypeScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 2025/04/07 18:43:43 UTC
+ Last Updated on 2025/04/08 18:45:12 UTC
 <!--END_SECTION:waka-->
