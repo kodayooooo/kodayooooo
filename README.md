@@ -36,44 +36,6 @@
  > 
 > 🔑 41 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-🌆 Daytime                22 commits          ████████████████████░░░░░   78.57 % 
-🌃 Evening                5 commits           ████░░░░░░░░░░░░░░░░░░░░░   17.86 % 
-🌙 Night                  1 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday                   1 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
-Tuesday                  18 commits          ████████████████░░░░░░░░░   64.29 % 
-Wednesday                5 commits           ████░░░░░░░░░░░░░░░░░░░░░   17.86 % 
-Thursday                 1 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
-Friday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Saturday                 0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Sunday                   3 commits           ███░░░░░░░░░░░░░░░░░░░░░░   10.71 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Tokyo
-
-💬 Programming Languages: 
-Java                     18 hrs 21 mins      ████████████░░░░░░░░░░░░░   46.11 % 
-Python                   12 hrs 35 mins      ████████░░░░░░░░░░░░░░░░░   31.63 % 
-SQL                      8 hrs 51 mins       ██████░░░░░░░░░░░░░░░░░░░   22.24 % 
-TOML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
-Batchfile                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
-
-🔥 Editors: 
-VS Code                  23 hrs 54 mins      ███████████████░░░░░░░░░░   60.05 % 
-Eclipse                  15 hrs 54 mins      ██████████░░░░░░░░░░░░░░░   39.95 % 
-```
-
 **I Mostly Code in Python** 
 
 ```text
@@ -84,5 +46,5 @@ TypeScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 2025/05/01 18:45:33 UTC
+ Last Updated on 2025/05/02 18:44:56 UTC
 <!--END_SECTION:waka-->
