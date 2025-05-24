@@ -63,15 +63,15 @@ Sunday                   3 commits           ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-Java                     45 hrs 24 mins      ████████████████████░░░░░   78.85 % 
-SQL                      6 hrs 19 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.00 % 
-Python                   4 hrs 52 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.45 % 
-Bash                     55 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.62 % 
+Java                     47 hrs 1 min        ███████████████████░░░░░░   75.54 % 
+SQL                      10 hrs 18 mins      ████░░░░░░░░░░░░░░░░░░░░░   16.56 % 
+Python                   3 hrs 47 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.09 % 
+Bash                     1 hr 4 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.74 % 
 YAML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 
 🔥 Editors: 
-Eclipse                  29 hrs 58 mins      █████████████░░░░░░░░░░░░   52.16 % 
-VS Code                  27 hrs 29 mins      ████████████░░░░░░░░░░░░░   47.84 % 
+Eclipse                  32 hrs 56 mins      █████████████░░░░░░░░░░░░   53.00 % 
+VS Code                  29 hrs 12 mins      ████████████░░░░░░░░░░░░░   47.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -84,5 +84,5 @@ TypeScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 2025/05/23 18:46:19 UTC
+ Last Updated on 2025/05/24 18:43:05 UTC
 <!--END_SECTION:waka-->
