@@ -28,7 +28,7 @@
 <!--START_SECTION:waka-->
 **🐱 My GitHub Data** 
 
-> 📦 13.6 kB Used in GitHub's Storage 
+> 📦 13.5 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -36,43 +36,6 @@
  > 
 > 🔑 42 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-🌆 Daytime                23 commits          ████████████████████░░░░░   79.31 % 
-🌃 Evening                5 commits           ████░░░░░░░░░░░░░░░░░░░░░   17.24 % 
-🌙 Night                  1 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday                   1 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
-Tuesday                  18 commits          ████████████████░░░░░░░░░   62.07 % 
-Wednesday                5 commits           ████░░░░░░░░░░░░░░░░░░░░░   17.24 % 
-Thursday                 1 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
-Friday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Saturday                 0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Sunday                   4 commits           ███░░░░░░░░░░░░░░░░░░░░░░   13.79 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Tokyo
-
-💬 Programming Languages: 
-Python                   12 hrs 39 mins      █████████████░░░░░░░░░░░░   51.73 % 
-Java                     4 hrs 42 mins       █████░░░░░░░░░░░░░░░░░░░░   19.22 % 
-Java Properties          3 hrs 34 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.61 % 
-SQL                      2 hrs 5 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.54 % 
-TypeScript               36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.48 % 
-
-🔥 Editors: 
-VS Code                  24 hrs 27 mins      █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in Python** 
 
 ```text
@@ -83,5 +46,5 @@ TypeScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 2025/06/25 18:49:10 UTC
+ Last Updated on 2025/06/26 18:48:10 UTC
 <!--END_SECTION:waka-->
