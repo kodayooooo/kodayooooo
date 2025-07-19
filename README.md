@@ -30,8 +30,6 @@
 
 > 📦 13.9 kB Used in GitHub's Storage 
  > 
-> 🏆 18 Contributions in the Year 2025
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 2 Public Repositories 
@@ -65,14 +63,14 @@ Sunday                   4 commits           ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-Java                     10 hrs 12 mins      ██████████████░░░░░░░░░░░   55.43 % 
-Java Properties          4 hrs 41 mins       ██████░░░░░░░░░░░░░░░░░░░   25.46 % 
-Python                   1 hr 32 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.40 % 
-Bash                     53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.81 % 
-SQL                      48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
+Java                     8 hrs 54 mins       █████████████░░░░░░░░░░░░   53.48 % 
+Java Properties          4 hrs 13 mins       ██████░░░░░░░░░░░░░░░░░░░   25.38 % 
+Python                   1 hr 32 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.29 % 
+Bash                     53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.32 % 
+SQL                      48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.81 % 
 
 🔥 Editors: 
-VS Code                  18 hrs 24 mins      █████████████████████████   100.00 % 
+VS Code                  16 hrs 38 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -85,5 +83,5 @@ TypeScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 2025/07/18 18:50:28 UTC
+ Last Updated on 2025/07/19 18:47:36 UTC
 <!--END_SECTION:waka-->
