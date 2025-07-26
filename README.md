@@ -30,8 +30,6 @@
 
 > 📦 13.9 kB Used in GitHub's Storage 
  > 
-> 🏆 18 Contributions in the Year 2025
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 2 Public Repositories 
@@ -66,8 +64,8 @@ Sunday                   4 commits           ███░░░░░░░░�
 
 💬 Programming Languages: 
 Python                   8 hrs 57 mins       ███████████░░░░░░░░░░░░░░   43.25 % 
-Java                     8 hrs 54 mins       ███████████░░░░░░░░░░░░░░   43.05 % 
-Java Properties          1 hr 25 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.91 % 
+Java                     8 hrs 54 mins       ███████████░░░░░░░░░░░░░░   43.04 % 
+Java Properties          1 hr 25 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.92 % 
 TypeScript               38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.13 % 
 Text                     12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.00 % 
 
@@ -85,5 +83,5 @@ TypeScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 2025/07/25 18:51:43 UTC
+ Last Updated on 2025/07/26 18:48:56 UTC
 <!--END_SECTION:waka-->
