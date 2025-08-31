@@ -30,12 +30,52 @@
 
 > 📦 14.4 kB Used in GitHub's Storage 
  > 
+> 🏆 18 Contributions in the Year 2025
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 2 Public Repositories 
  > 
 > 🔑 47 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+🌆 Daytime                23 commits          ████████████████████░░░░░   79.31 % 
+🌃 Evening                5 commits           ████░░░░░░░░░░░░░░░░░░░░░   17.24 % 
+🌙 Night                  1 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   1 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
+Tuesday                  18 commits          ████████████████░░░░░░░░░   62.07 % 
+Wednesday                5 commits           ████░░░░░░░░░░░░░░░░░░░░░   17.24 % 
+Thursday                 1 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
+Friday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Saturday                 0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Sunday                   4 commits           ███░░░░░░░░░░░░░░░░░░░░░░   13.79 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Tokyo
+
+💬 Programming Languages: 
+Java                     25 hrs              ██████████████████░░░░░░░   71.94 % 
+Python                   3 hrs 40 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.59 % 
+SQL                      3 hrs 14 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.31 % 
+JSON                     2 hrs 3 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.90 % 
+Batchfile                32 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.57 % 
+
+🔥 Editors: 
+Eclipse                  19 hrs 38 mins      ██████████████░░░░░░░░░░░   56.52 % 
+VS Code                  15 hrs 6 mins       ███████████░░░░░░░░░░░░░░   43.48 % 
+```
+
 **I Mostly Code in Python** 
 
 ```text
@@ -46,5 +86,5 @@ TypeScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 2025/08/30 18:41:55 UTC
+ Last Updated on 2025/08/31 18:42:29 UTC
 <!--END_SECTION:waka-->
