@@ -28,7 +28,7 @@
 <!--START_SECTION:waka-->
 **🐱 My GitHub Data** 
 
-> 📦 14.5 kB Used in GitHub's Storage 
+> 📦 14.6 kB Used in GitHub's Storage 
  > 
 > 🏆 18 Contributions in the Year 2025
  > 
@@ -36,7 +36,7 @@
  > 
 > 📜 2 Public Repositories 
  > 
-> 🔑 47 Private Repositories 
+> 🔑 48 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
@@ -65,26 +65,26 @@ Sunday                   4 commits           ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-Java                     25 hrs 43 mins      ██████████████████░░░░░░░   70.31 % 
-Python                   9 hrs 14 mins       ██████░░░░░░░░░░░░░░░░░░░   25.24 % 
-SQL                      48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.22 % 
-Markdown                 24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.14 % 
-JSON                     18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.84 % 
+Java                     20 hrs              █████████████████░░░░░░░░   66.89 % 
+Python                   8 hrs 35 mins       ███████░░░░░░░░░░░░░░░░░░   28.70 % 
+SQL                      48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.70 % 
+Markdown                 24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.39 % 
+Text                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
 
 🔥 Editors: 
-Eclipse                  19 hrs 29 mins      █████████████░░░░░░░░░░░░   53.27 % 
-VS Code                  17 hrs 5 mins       ████████████░░░░░░░░░░░░░   46.73 % 
+Eclipse                  15 hrs 11 mins      █████████████░░░░░░░░░░░░   50.77 % 
+VS Code                  14 hrs 43 mins      ████████████░░░░░░░░░░░░░   49.23 % 
 ```
 
 **I Mostly Code in Python** 
 
 ```text
-Python                   46 repos            ████████████████████████░   97.87 % 
-TypeScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.13 % 
+Python                   47 repos            ████████████████████████░   97.92 % 
+TypeScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.08 % 
 ```
 
 
 
 
- Last Updated on 2025/09/05 18:42:57 UTC
+ Last Updated on 2025/09/06 18:40:48 UTC
 <!--END_SECTION:waka-->
