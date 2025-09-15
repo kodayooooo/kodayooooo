@@ -30,13 +30,11 @@
 
 > 📦 14.7 kB Used in GitHub's Storage 
  > 
-> 🏆 18 Contributions in the Year 2025
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 2 Public Repositories 
  > 
-> 🔑 50 Private Repositories 
+> 🔑 51 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
@@ -65,26 +63,26 @@ Sunday                   4 commits           ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-Java                     11 hrs 23 mins      █████████████░░░░░░░░░░░░   51.51 % 
-Python                   9 hrs 38 mins       ███████████░░░░░░░░░░░░░░   43.59 % 
-Bash                     44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.36 % 
-SQL                      11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.89 % 
-Text                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 % 
+Java                     7 hrs 27 mins       █████████████░░░░░░░░░░░░   51.95 % 
+Python                   6 hrs 38 mins       ████████████░░░░░░░░░░░░░   46.27 % 
+SQL                      11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.38 % 
+Bash                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
+JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
 
 🔥 Editors: 
-VS Code                  16 hrs 10 mins      ██████████████████░░░░░░░   73.11 % 
-Eclipse                  5 hrs 56 mins       ███████░░░░░░░░░░░░░░░░░░   26.89 % 
+VS Code                  8 hrs 24 mins       ███████████████░░░░░░░░░░   58.57 % 
+Eclipse                  5 hrs 56 mins       ██████████░░░░░░░░░░░░░░░   41.43 % 
 ```
 
 **I Mostly Code in Python** 
 
 ```text
-Python                   49 repos            ████████████████████████░   98.00 % 
-TypeScript               1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   02.00 % 
+Python                   50 repos            █████████████████████████   98.04 % 
+TypeScript               1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.96 % 
 ```
 
 
 
 
- Last Updated on 2025/09/14 18:40:17 UTC
+ Last Updated on 2025/09/15 18:45:04 UTC
 <!--END_SECTION:waka-->
