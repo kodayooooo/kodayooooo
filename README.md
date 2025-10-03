@@ -28,7 +28,7 @@
 <!--START_SECTION:waka-->
 **🐱 My GitHub Data** 
 
-> 📦 14.8 kB Used in GitHub's Storage 
+> 📦 14.9 kB Used in GitHub's Storage 
  > 
 > 🏆 18 Contributions in the Year 2025
  > 
@@ -38,43 +38,6 @@
  > 
 > 🔑 54 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-🌆 Daytime                23 commits          ████████████████████░░░░░   79.31 % 
-🌃 Evening                5 commits           ████░░░░░░░░░░░░░░░░░░░░░   17.24 % 
-🌙 Night                  1 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday                   1 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
-Tuesday                  18 commits          ████████████████░░░░░░░░░   62.07 % 
-Wednesday                5 commits           ████░░░░░░░░░░░░░░░░░░░░░   17.24 % 
-Thursday                 1 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
-Friday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Saturday                 0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Sunday                   4 commits           ███░░░░░░░░░░░░░░░░░░░░░░   13.79 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Tokyo
-
-💬 Programming Languages: 
-Python                   17 hrs 59 mins      ████████████████████████░   94.10 % 
-SQL                      1 hr 5 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.71 % 
-HTML                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
-TOML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔥 Editors: 
-VS Code                  19 hrs 6 mins       █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in Python** 
 
 ```text
@@ -85,5 +48,5 @@ TypeScript               1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 2025/10/02 18:43:56 UTC
+ Last Updated on 2025/10/03 18:44:30 UTC
 <!--END_SECTION:waka-->
