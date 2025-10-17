@@ -28,7 +28,7 @@
 <!--START_SECTION:waka-->
 **🐱 My GitHub Data** 
 
-> 📦 14.9 kB Used in GitHub's Storage 
+> 📦 28.5 kB Used in GitHub's Storage 
  > 
 > 🏆 18 Contributions in the Year 2025
  > 
@@ -65,13 +65,14 @@ Sunday                   4 commits           ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-Python                   3 hrs 48 mins       █████████████░░░░░░░░░░░░   50.95 % 
-Bash                     3 hrs 21 mins       ███████████░░░░░░░░░░░░░░   44.90 % 
-TOML                     10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.41 % 
-JSON                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.74 % 
+Bash                     3 hrs 21 mins       ████████████░░░░░░░░░░░░░   48.21 % 
+Python                   3 hrs 15 mins       ████████████░░░░░░░░░░░░░   46.95 % 
+TOML                     10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.59 % 
+JSON                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.87 % 
+SQL                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 % 
 
 🔥 Editors: 
-VS Code                  7 hrs 28 mins       █████████████████████████   100.00 % 
+VS Code                  6 hrs 57 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -84,5 +85,5 @@ TypeScript               1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 2025/10/16 18:46:57 UTC
+ Last Updated on 2025/10/17 18:44:13 UTC
 <!--END_SECTION:waka-->
