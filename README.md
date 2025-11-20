@@ -36,7 +36,7 @@
  > 
 > 📜 2 Public Repositories 
  > 
-> 🔑 60 Private Repositories 
+> 🔑 61 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
@@ -65,26 +65,26 @@ Sunday                   4 commits           ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-Java                     24 hrs 59 mins      █████████████░░░░░░░░░░░░   51.47 % 
-Python                   12 hrs 50 mins      ███████░░░░░░░░░░░░░░░░░░   26.45 % 
-Markdown                 5 hrs 6 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.53 % 
-SQL                      2 hrs 31 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.19 % 
-Java Properties          1 hr 41 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.49 % 
+Java                     22 hrs 9 mins       ████████████░░░░░░░░░░░░░   47.82 % 
+Python                   12 hrs 41 mins      ███████░░░░░░░░░░░░░░░░░░   27.41 % 
+Markdown                 6 hrs 33 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.16 % 
+SQL                      1 hr 48 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.92 % 
+Java Properties          1 hr 26 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.13 % 
 
 🔥 Editors: 
-VS Code                  48 hrs 30 mins      █████████████████████████   99.89 % 
+VS Code                  46 hrs 16 mins      █████████████████████████   99.89 % 
 Eclipse                  3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
 ```
 
 **I Mostly Code in Python** 
 
 ```text
-Python                   59 repos            █████████████████████████   98.33 % 
-TypeScript               1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.67 % 
+Python                   60 repos            █████████████████████████   98.36 % 
+TypeScript               1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.64 % 
 ```
 
 
 
 
- Last Updated on 2025/11/19 18:47:22 UTC
+ Last Updated on 2025/11/20 18:49:33 UTC
 <!--END_SECTION:waka-->
