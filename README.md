@@ -28,7 +28,7 @@
 <!--START_SECTION:waka-->
 **🐱 My GitHub Data** 
 
-> 📦 36.5 kB Used in GitHub's Storage 
+> 📦 36.6 kB Used in GitHub's Storage 
  > 
 > 🏆 0 Contributions in the Year 2026
  > 
@@ -65,14 +65,13 @@ Sunday                   4 commits           ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-SSH Config               1 hr 23 mins        ████████░░░░░░░░░░░░░░░░░   32.45 % 
-Python                   1 hr 14 mins        ███████░░░░░░░░░░░░░░░░░░   28.65 % 
-Text                     1 hr 9 mins         ███████░░░░░░░░░░░░░░░░░░   26.74 % 
-Markdown                 28 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.83 % 
-Bash                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.33 % 
+SSH Config               1 hr 13 mins        ██████████░░░░░░░░░░░░░░░   41.13 % 
+Text                     1 hr 8 mins         █████████░░░░░░░░░░░░░░░░   37.98 % 
+Python                   36 mins             █████░░░░░░░░░░░░░░░░░░░░   20.33 % 
+Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 % 
 
 🔥 Editors: 
-VS Code                  4 hrs 18 mins       █████████████████████████   100.00 % 
+VS Code                  2 hrs 59 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -85,5 +84,5 @@ TypeScript               2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 2026/01/23 18:56:24 UTC
+ Last Updated on 2026/01/24 18:50:41 UTC
 <!--END_SECTION:waka-->
