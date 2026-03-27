@@ -28,7 +28,7 @@
 <!--START_SECTION:waka-->
 **🐱 My GitHub Data** 
 
-> 📦 63.9 kB Used in GitHub's Storage 
+> 📦 64.3 kB Used in GitHub's Storage 
  > 
 > 🏆 0 Contributions in the Year 2026
  > 
@@ -36,7 +36,7 @@
  > 
 > 📜 2 Public Repositories 
  > 
-> 🔑 74 Private Repositories 
+> 🔑 76 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
@@ -65,25 +65,25 @@ Sunday                   4 commits           ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-Python                   55 mins             █████████████████████░░░░   83.70 % 
-JSON                     8 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.31 % 
-Bash                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.88 % 
-Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
+Python                   6 hrs 1 min         ████████████████████████░   95.96 % 
+JSON                     8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.33 % 
+Text                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.73 % 
+Bash                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 % 
+Git Config               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 % 
 
 🔥 Editors: 
-VS Code                  1 hr 6 mins         █████████████████████████   100.00 % 
+VS Code                  6 hrs 17 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
 
 ```text
-Python                   72 repos            ████████████████████████░   97.30 % 
-TypeScript               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.70 % 
+Python                   74 repos            ████████████████████████░   97.37 % 
+TypeScript               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.63 % 
 ```
 
 
 
 
- Last Updated on 2026/03/26 19:36:13 UTC
+ Last Updated on 2026/03/27 19:14:50 UTC
 <!--END_SECTION:waka-->
