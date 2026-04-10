@@ -36,7 +36,7 @@
  > 
 > 📜 2 Public Repositories 
  > 
-> 🔑 78 Private Repositories 
+> 🔑 79 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
@@ -65,23 +65,24 @@ Sunday                   4 commits           ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-Python                   3 hrs 14 mins       █████████████████████████   99.40 % 
-SSH Config               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+Python                   3 hrs 57 mins       █████████████████████████   98.90 % 
+Bash                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 % 
+SSH Config               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 15 mins       █████████████████████████   100.00 % 
+VS Code                  4 hrs               █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
 
 ```text
-Python                   76 repos            ████████████████████████░   97.44 % 
-TypeScript               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.56 % 
+Python                   77 repos            ████████████████████████░   97.47 % 
+TypeScript               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.53 % 
 ```
 
 
 
 
- Last Updated on 2026/04/09 19:44:36 UTC
+ Last Updated on 2026/04/10 19:25:43 UTC
 <!--END_SECTION:waka-->
