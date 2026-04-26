@@ -28,7 +28,7 @@
 <!--START_SECTION:waka-->
 **🐱 My GitHub Data** 
 
-> 📦 64.5 kB Used in GitHub's Storage 
+> 📦 64.6 kB Used in GitHub's Storage 
  > 
 > 🏆 0 Contributions in the Year 2026
  > 
@@ -36,7 +36,7 @@
  > 
 > 📜 2 Public Repositories 
  > 
-> 🔑 80 Private Repositories 
+> 🔑 82 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
@@ -65,24 +65,24 @@ Sunday                   4 commits           ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-Python                   1 hr 37 mins        ███████████████████████░░   91.88 % 
-Java Properties          8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.94 % 
-Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+Java Properties          8 mins              ██████████████████████░░░   88.46 % 
+Python                   0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   09.46 % 
+Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.97 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
 
 🔥 Editors: 
-VS Code                  1 hr 46 mins        █████████████████████████   100.00 % 
+VS Code                  9 mins              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
 
 ```text
-Python                   78 repos            ████████████████████████░   97.50 % 
-TypeScript               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.50 % 
+Python                   80 repos            ████████████████████████░   97.56 % 
+TypeScript               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.44 % 
 ```
 
 
 
 
- Last Updated on 2026/04/25 19:15:00 UTC
+ Last Updated on 2026/04/26 19:26:17 UTC
 <!--END_SECTION:waka-->
