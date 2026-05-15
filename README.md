@@ -28,7 +28,7 @@
 <!--START_SECTION:waka-->
 **🐱 My GitHub Data** 
 
-> 📦 64.8 kB Used in GitHub's Storage 
+> 📦 64.9 kB Used in GitHub's Storage 
  > 
 > 🏆 0 Contributions in the Year 2026
  > 
@@ -36,52 +36,17 @@
  > 
 > 📜 2 Public Repositories 
  > 
-> 🔑 86 Private Repositories 
+> 🔑 87 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-🌆 Daytime                23 commits          ████████████████████░░░░░   79.31 % 
-🌃 Evening                5 commits           ████░░░░░░░░░░░░░░░░░░░░░   17.24 % 
-🌙 Night                  1 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday                   1 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
-Tuesday                  18 commits          ████████████████░░░░░░░░░   62.07 % 
-Wednesday                5 commits           ████░░░░░░░░░░░░░░░░░░░░░   17.24 % 
-Thursday                 1 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
-Friday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Saturday                 0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Sunday                   4 commits           ███░░░░░░░░░░░░░░░░░░░░░░   13.79 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Tokyo
-
-💬 Programming Languages: 
-Python                   18 mins             ██████████████░░░░░░░░░░░   55.50 % 
-Bash                     7 mins              ██████░░░░░░░░░░░░░░░░░░░   23.04 % 
-JSON                     7 mins              █████░░░░░░░░░░░░░░░░░░░░   21.46 % 
-
-🔥 Editors: 
-VS Code                  33 mins             █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in Python** 
 
 ```text
-Python                   84 repos            ████████████████████████░   97.67 % 
-TypeScript               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.33 % 
+Python                   85 repos            ████████████████████████░   97.70 % 
+TypeScript               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.30 % 
 ```
 
 
 
 
- Last Updated on 2026/05/14 20:12:24 UTC
+ Last Updated on 2026/05/15 19:58:35 UTC
 <!--END_SECTION:waka-->
