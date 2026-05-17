@@ -36,52 +36,17 @@
  > 
 > 📜 2 Public Repositories 
  > 
-> 🔑 87 Private Repositories 
+> 🔑 88 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-🌆 Daytime                23 commits          ████████████████████░░░░░   79.31 % 
-🌃 Evening                5 commits           ████░░░░░░░░░░░░░░░░░░░░░   17.24 % 
-🌙 Night                  1 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday                   1 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
-Tuesday                  18 commits          ████████████████░░░░░░░░░   62.07 % 
-Wednesday                5 commits           ████░░░░░░░░░░░░░░░░░░░░░   17.24 % 
-Thursday                 1 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
-Friday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Saturday                 0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Sunday                   4 commits           ███░░░░░░░░░░░░░░░░░░░░░░   13.79 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Tokyo
-
-💬 Programming Languages: 
-Python                   18 mins             ██████████████░░░░░░░░░░░   55.50 % 
-Bash                     7 mins              ██████░░░░░░░░░░░░░░░░░░░   23.04 % 
-JSON                     7 mins              █████░░░░░░░░░░░░░░░░░░░░   21.46 % 
-
-🔥 Editors: 
-VS Code                  33 mins             █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in Python** 
 
 ```text
-Python                   85 repos            ████████████████████████░   97.70 % 
-TypeScript               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.30 % 
+Python                   86 repos            ████████████████████████░   97.73 % 
+TypeScript               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.27 % 
 ```
 
 
 
 
- Last Updated on 2026/05/16 19:38:14 UTC
+ Last Updated on 2026/05/17 19:43:41 UTC
 <!--END_SECTION:waka-->
