@@ -28,7 +28,7 @@
 <!--START_SECTION:waka-->
 **🐱 My GitHub Data** 
 
-> 📦 64.9 kB Used in GitHub's Storage 
+> 📦 65.0 kB Used in GitHub's Storage 
  > 
 > 🏆 0 Contributions in the Year 2026
  > 
@@ -65,11 +65,10 @@ Sunday                   4 commits           ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-Python                   2 hrs 37 mins       █████████████████████████   98.50 % 
-SQL                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.50 % 
+Python                   25 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 40 mins       █████████████████████████   100.00 % 
+VS Code                  25 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -82,5 +81,5 @@ TypeScript               2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 2026/06/02 21:28:25 UTC
+ Last Updated on 2026/06/03 21:34:04 UTC
 <!--END_SECTION:waka-->
