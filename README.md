@@ -28,7 +28,7 @@
 <!--START_SECTION:waka-->
 **🐱 My GitHub Data** 
 
-> 📦 65.1 kB Used in GitHub's Storage 
+> 📦 65.2 kB Used in GitHub's Storage 
  > 
 > 🏆 0 Contributions in the Year 2026
  > 
@@ -36,50 +36,17 @@
  > 
 > 📜 2 Public Repositories 
  > 
-> 🔑 91 Private Repositories 
+> 🔑 92 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-🌆 Daytime                23 commits          ████████████████████░░░░░   79.31 % 
-🌃 Evening                5 commits           ████░░░░░░░░░░░░░░░░░░░░░   17.24 % 
-🌙 Night                  1 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday                   1 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
-Tuesday                  18 commits          ████████████████░░░░░░░░░   62.07 % 
-Wednesday                5 commits           ████░░░░░░░░░░░░░░░░░░░░░   17.24 % 
-Thursday                 1 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
-Friday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Saturday                 0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Sunday                   4 commits           ███░░░░░░░░░░░░░░░░░░░░░░   13.79 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Tokyo
-
-💬 Programming Languages: 
-Python                   2 hrs 14 mins       █████████████████████████   100.00 % 
-
-🔥 Editors: 
-VS Code                  2 hrs 14 mins       █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in Python** 
 
 ```text
-Python                   89 repos            ████████████████████████░   97.80 % 
-TypeScript               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.20 % 
+Python                   90 repos            ████████████████████████░   97.83 % 
+TypeScript               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.17 % 
 ```
 
 
 
 
- Last Updated on 2026/06/06 19:52:02 UTC
+ Last Updated on 2026/06/07 19:53:30 UTC
 <!--END_SECTION:waka-->
