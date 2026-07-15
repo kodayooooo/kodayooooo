@@ -28,7 +28,7 @@
 <!--START_SECTION:waka-->
 **🐱 My GitHub Data** 
 
-> 📦 109.2 kB Used in GitHub's Storage 
+> 📦 109.3 kB Used in GitHub's Storage 
  > 
 > 🏆 0 Contributions in the Year 2026
  > 
@@ -41,21 +41,21 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                12 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.98 % 
-🌆 Daytime                88 commits          █████████░░░░░░░░░░░░░░░░   36.51 % 
-🌃 Evening                127 commits         █████████████░░░░░░░░░░░░   52.70 % 
-🌙 Night                  14 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.81 % 
+🌞 Morning                12 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.96 % 
+🌆 Daytime                88 commits          █████████░░░░░░░░░░░░░░░░   36.36 % 
+🌃 Evening                128 commits         █████████████░░░░░░░░░░░░   52.89 % 
+🌙 Night                  14 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.79 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   15 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.22 % 
-Tuesday                  89 commits          █████████░░░░░░░░░░░░░░░░   36.93 % 
-Wednesday                55 commits          ██████░░░░░░░░░░░░░░░░░░░   22.82 % 
-Thursday                 60 commits          ██████░░░░░░░░░░░░░░░░░░░   24.90 % 
-Friday                   12 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.98 % 
+Monday                   15 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.20 % 
+Tuesday                  89 commits          █████████░░░░░░░░░░░░░░░░   36.78 % 
+Wednesday                56 commits          ██████░░░░░░░░░░░░░░░░░░░   23.14 % 
+Thursday                 60 commits          ██████░░░░░░░░░░░░░░░░░░░   24.79 % 
+Friday                   12 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.96 % 
 Saturday                 2 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.83 % 
-Sunday                   8 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.32 % 
+Sunday                   8 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.31 % 
 ```
 
 
@@ -65,10 +65,11 @@ Sunday                   8 commits           █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-Python                   6 mins              █████████████████████████   100.00 % 
+Java Properties          12 mins             █████████████████░░░░░░░░   66.92 % 
+Python                   6 mins              ████████░░░░░░░░░░░░░░░░░   33.08 % 
 
 🔥 Editors: 
-VS Code                  6 mins              █████████████████████████   100.00 % 
+VS Code                  18 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -81,5 +82,5 @@ TypeScript               2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 2026/07/14 19:50:57 UTC
+ Last Updated on 2026/07/15 19:44:34 UTC
 <!--END_SECTION:waka-->
