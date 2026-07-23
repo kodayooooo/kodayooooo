@@ -38,39 +38,6 @@
  > 
 > 🔑 98 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                15 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.66 % 
-🌆 Daytime                118 commits         █████████░░░░░░░░░░░░░░░░   36.65 % 
-🌃 Evening                155 commits         ████████████░░░░░░░░░░░░░   48.14 % 
-🌙 Night                  34 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.56 % 
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday                   22 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.83 % 
-Tuesday                  91 commits          ███████░░░░░░░░░░░░░░░░░░   28.26 % 
-Wednesday                56 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.39 % 
-Thursday                 60 commits          █████░░░░░░░░░░░░░░░░░░░░   18.63 % 
-Friday                   36 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.18 % 
-Saturday                 30 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.32 % 
-Sunday                   27 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.39 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Tokyo
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in Python** 
 
 ```text
@@ -81,5 +48,5 @@ TypeScript               2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 2026/07/22 19:52:01 UTC
+ Last Updated on 2026/07/23 19:54:24 UTC
 <!--END_SECTION:waka-->
