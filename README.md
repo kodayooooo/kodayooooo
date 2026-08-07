@@ -26,11 +26,9 @@
 </p>
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-3%20hrs-blue?style=flat)
-
 **🐱 My GitHub Data** 
 
-> 📦 184.3 kB Used in GitHub's Storage 
+> 📦 184.6 kB Used in GitHub's Storage 
  > 
 > 🏆 0 Contributions in the Year 2026
  > 
@@ -40,45 +38,6 @@
  > 
 > 🔑 101 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                117 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.31 % 
-🌆 Daytime                346 commits         ████████░░░░░░░░░░░░░░░░░   30.48 % 
-🌃 Evening                505 commits         ███████████░░░░░░░░░░░░░░   44.49 % 
-🌙 Night                  167 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.71 % 
-```
-📅 **I'm Most Productive on Friday** 
-
-```text
-Monday                   152 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.39 % 
-Tuesday                  171 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.07 % 
-Wednesday                105 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.25 % 
-Thursday                 180 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.86 % 
-Friday                   207 commits         █████░░░░░░░░░░░░░░░░░░░░   18.24 % 
-Saturday                 135 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.89 % 
-Sunday                   185 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.30 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Tokyo
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-No AI Coding Activity Tracked This Week
-```
-
 **I Mostly Code in Python** 
 
 ```text
@@ -89,5 +48,5 @@ TypeScript               3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 2026/08/05 20:03:19 UTC
+ Last Updated on 2026/08/07 00:22:42 UTC
 <!--END_SECTION:waka-->
